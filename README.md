@@ -1,5 +1,11 @@
 ## Telegram Game Bot
 
+### celery commands
+```bash
+celery -A scheduler worker --detach
+celery -A scheduler beat --detach
+```
+
 ### TODO
 game
 + poker
