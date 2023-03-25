@@ -1,6 +1,6 @@
 ## TRC20 wallet tracker
 
-This project helps you to track your TRC20 wallet deposite transactions. 
+This project helps you to track your TRC20 wallet deposit transactions. 
 
 ### celery commands
 ```bash
