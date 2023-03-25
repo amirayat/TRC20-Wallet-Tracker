@@ -1,4 +1,6 @@
-## Telegram Game Bot
+## TRC20 wallet tracker
+
+This project helps you to track your TRC20 wallet deposite transactions. 
 
 ### celery commands
 ```bash
@@ -7,23 +9,5 @@ celery -A scheduler beat --detach
 ```
 
 ### TODO
-game
-+ poker
-+ holdem
-+ blackjack
-+ chess
-+ checkers
-+ rock-paper-scissors-lizard-spock
-+ connect-four
-+ tic-tac-toe
-+ tic-tac-four
-
-game type
-+ demo
-+ real
-
-game selection
-+ table
-
 withdrawal
 + automate money transfer 
